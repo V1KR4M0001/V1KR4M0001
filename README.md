@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @V1KR4M0001<br>👀 I’m interested in Software Engineering<br>🌱 I’m currently learning Full Stack Development, C++, DSA, Java.<br>💞️ I’m looking for Internship.<br>📫 How to reach me LinkedIn(https://www.linkedin.com/in/vikram-singh-b415512ab) OR email (vikramsingh022004@gmail.com).<br>😄 Pronouns: He.<br>
+👋 Hi, I’m @V1KR4M0001<br>👀 I’m interested in Software Engineering<br>🌱 I’m currently learning Full Stack Development, C++, DSA, Java.<br>💞️ I’m looking for Internship.<br>😄 Pronouns: He.<br>
 
 
 ## 🌐 Socials:
